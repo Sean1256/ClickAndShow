@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClickAndShow</string>
+    <string name="show">Hello World!</string>
+    <string name="enlarge">放大</string>
+    <string name="ensmall">缩小</string>
+    <string name="ok">确定</string>
+    <string name="input">Please input !</string>
+
+</resources>
